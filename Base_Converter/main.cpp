@@ -11,7 +11,7 @@
 #include <iostream>	/*for cout, cin*/
 #include <istream>	/*for cin.clear, cin.ignore*/
 #include <limits>	/*for numeric_limits<streamsize>::max()*/
-#include <algorithm>/*for reverse*/
+#include <algorithm>	/*for reverse*/
 #include <vector>	/*for vector*/
 #include <climits>	/*for LONG_MIN, LONG_MAX*/
 /*WARNING: scanf didn't work correctly when this program was written*/
